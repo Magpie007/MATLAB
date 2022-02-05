@@ -1,4 +1,4 @@
-# MATLAB
+# Optimization
 
 01. Practical Optimization With MATLAB
 Author: Mircea Ancu
