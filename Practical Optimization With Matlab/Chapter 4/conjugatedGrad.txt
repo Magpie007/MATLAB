@@ -1,0 +1,6 @@
+The Conjugated Gradient Method
+
+the start point:
+x1zero= 3.000000
+ x2zero= 3.500000
+
