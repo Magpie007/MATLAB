@@ -9,5 +9,5 @@ Author: P. Venkataraman
 ISBN-13: 978-0470084885
 
 03. Statistical Computing
-4. Author: William J. Kenney, Jr. & James E. Gentle
-5. ISBN: 0-8247-6898-1
+Author: William J. Kenney, Jr. & James E. Gentle
+ISBN: 0-8247-6898-1
