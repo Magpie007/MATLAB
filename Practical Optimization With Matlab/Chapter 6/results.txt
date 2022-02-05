@@ -1,0 +1,9 @@
+Integration by Monte Carlo method
+
+the number of points generated in thesquare area
+  N= 100000.000000
+the number of points under the circlearc
+  n=78496.000000
+
+the mean value of theintegral = 0.785378
+standard deviation 0.001359
