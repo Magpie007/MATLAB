@@ -1,10 +1,10 @@
 # MATLAB - Optimization Algorithms
 
-01. Practical Optimization With MATLAB,
+01. Practical Optimization with MATLAB,
     Author: Mircea Ancu,
     ISBN-13: 978-1527538498
 
-02. Applied Optimization With MATLAB Programming, 
+02. Applied Optimization with MATLAB Programming, 
     Author: P. Venkataraman,
     ISBN-13: 978-0470084885,
 
