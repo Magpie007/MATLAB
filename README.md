@@ -4,7 +4,7 @@
     Author: Mircea Ancu,
     ISBN-13: 978-1527538498
 
-02. Applied Optimization With MATLAB Programming 2nd Edition, 
+02. Applied Optimization With MATLAB Programming, 
     Author: P. Venkataraman,
     ISBN-13: 978-0470084885,
 
