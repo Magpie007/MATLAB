@@ -1,0 +1,14 @@
+The exterior penalty function method
+based on a gradient methodimplementation
+
+the start point X0(x1zero,x2zero):
+x1zero= -3.000  x2zero=  3.000
+convergence factor: epsilon= 0.001000
+initial leap factor alfa0= 0.001000
+leap factor increment incAlfa= 0.001000
+the penalty factor Rp= 1.000000
+
+  Final result:
+x1Min= -2.943774  x2Min= 2.914232 
+  fMin=127.993777
+constraint g1= -20.035587
