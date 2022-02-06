@@ -1,6 +1,6 @@
 # MATLAB - Optimization Algorithms
 
-01. Practical Optimization with MATLAB,
+[01] Practical Optimization with MATLAB,
     Author: Mircea Ancu,
     ISBN-13: 978-1527538498
 
