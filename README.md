@@ -1,4 +1,4 @@
-# MATLAB - Optimization Algorithms
+# MATLAB - Algorithms for Optimization
 
 [1] Practical Optimization with MATLAB,
     Author: Mircea Ancu,
@@ -19,6 +19,12 @@
 [5] Applied Numerical Methods with MATLAB for Engineers and Scientists, 
     Author: Steven C. Chapra, 
     ISBN: 978-0-07-339796-2
+
+# Optimization - The Schematic Algorithm
+- What is the starting point?
+- How to choose the descent direction?
+- What stepsize should be taken? 
+- What is the stopping criteria?
 
 # MATLAB - Optimization Toolbox
 
