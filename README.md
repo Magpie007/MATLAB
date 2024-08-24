@@ -33,3 +33,5 @@
 [Optimization Toolbox](https://www.mathworks.com/help/optim/index.html)
 
 [Global Optimization Toolbox](https://www.mathworks.com/help/gads/index.html)
+
+[Deep Learning Toolbox](https://www.mathworks.com/help/deeplearning/index.html?lang=en)
