@@ -20,6 +20,8 @@
     Author: Steven C. Chapra, 
     ISBN: 978-0-07-339796-2
 
+[6] [EPFL Machine Learning and Optimization Laboratory](https://github.com/epfml/OptML_course)
+
 # Optimization - The Schematic Algorithm
 - What is the starting point?
 - How to choose the descent direction?
