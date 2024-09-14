@@ -37,3 +37,7 @@
 [Deep Learning Toolbox](https://www.mathworks.com/help/deeplearning/index.html?lang=en)
 
 [Cheat Sheet - MATLAB & Simulink](https://www.mathworks.com/campaigns/products/cheat-sheets.html?s_iid=mwa_ds_cht_shts)
+
+# Blogs
+
+[The most popular optimization algorithms](https://www.cnblogs.com/maybe2030/p/4751804.html)
